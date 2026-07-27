@@ -52,3 +52,5 @@ tests/test_calculadora.py::test_dividir_por_zero PASSED
 
 Se os 5 testes passaram, seu ambiente está pronto. Se algo não funcionar, procure a
 gente antes do dia do workshop que ajudamos a resolver.
+
+Editei <3
